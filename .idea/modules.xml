@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/learnRedis/case-hash/case-hash.iml" filepath="$PROJECT_DIR$/learnRedis/case-hash/case-hash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnRedis/case-list/case-list.iml" filepath="$PROJECT_DIR$/learnRedis/case-list/case-list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnRedis/case-set/case-set.iml" filepath="$PROJECT_DIR$/learnRedis/case-set/case-set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnRedis/case-sortedset/case-sortedset.iml" filepath="$PROJECT_DIR$/learnRedis/case-sortedset/case-sortedset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnRedis/case-string/case-string.iml" filepath="$PROJECT_DIR$/learnRedis/case-string/case-string.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnRedis/command/command.iml" filepath="$PROJECT_DIR$/learnRedis/command/command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnRedis/distributed-locks/distributed-locks.iml" filepath="$PROJECT_DIR$/learnRedis/distributed-locks/distributed-locks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnConcurrency/learnConcurrency.iml" filepath="$PROJECT_DIR$/learnConcurrency/learnConcurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnRedis/learnRedis.iml" filepath="$PROJECT_DIR$/learnRedis/learnRedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnBase/learnbase.iml" filepath="$PROJECT_DIR$/learnBase/learnbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learnJvm/learnjvm.iml" filepath="$PROJECT_DIR$/learnJvm/learnjvm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learntobe.iml" filepath="$PROJECT_DIR$/learntobe.iml" />
+    </modules>
+  </component>
+</project>

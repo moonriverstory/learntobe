@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="case-string" />
+        <module name="case-sortedset" />
+        <module name="case-set" />
+        <module name="case-list" />
+        <module name="learnjvm" />
+        <module name="command" />
+        <module name="learnConcurrency" />
+        <module name="case-hash" />
+        <module name="distributed-locks" />
+        <module name="learnbase" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="case-hash" target="1.8" />
+      <module name="case-list" target="1.8" />
+      <module name="case-set" target="1.8" />
+      <module name="case-sortedset" target="1.8" />
+      <module name="case-string" target="1.8" />
+      <module name="command" target="1.8" />
+      <module name="distributed-limiting" target="1.8" />
+      <module name="distributed-locks" target="1.8" />
+      <module name="learnbase" target="1.8" />
+      <module name="learnConcurrency" target="1.8" />
+      <module name="learnjvm" target="1.8" />
+      <module name="learnRedis" target="1.8" />
+      <module name="learntobe" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

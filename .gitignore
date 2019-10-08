@@ -1,0 +1,11 @@
+# Project exclude paths
+/learnBase/target/
+/learnConcurrency/target/
+/learnJvm/target/
+/learnRedis/case-hash/target/
+/learnRedis/case-list/target/
+/learnRedis/case-set/target/
+/learnRedis/case-sortedset/target/
+/learnRedis/case-string/target/
+/learnRedis/command/target/
+/learnRedis/distributed-locks/target/

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/learnBase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learnJvm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learnRedis/case-hash" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learnRedis/case-list" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learnRedis/case-set" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learnRedis/case-sortedset" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learnRedis/case-string" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/learnRedis/distributed-limiting" charset="UTF-8" />
+  </component>
+</project>
